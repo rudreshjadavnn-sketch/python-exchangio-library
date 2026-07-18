@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "exchangio"
+version = "0.1.1"
+description = "A Python library to convert USD to INR and INR to USD using simple built-in functions"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+
+authors = [
+  { name = "Rudresh N N", email = "nnrudreshjavad@gmail.com" }
+]
+
+keywords = [
+  "currency",
+  "currency-converter",
+  "usd-to-inr",
+  "inr-to-usd",
+  "exchange-rate",
+  "finance",
+  "python-library"
+]
+
+dependencies = [
+  "forex-python"
+]
+
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/exchangio"
+Repository = "https://github.com/yourusername/exchangio"
+Issues = "https://github.com/yourusername/exchangio/issues"
