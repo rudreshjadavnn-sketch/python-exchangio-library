@@ -96,9 +96,9 @@ This project is licensed under the MIT License.
 
 **Rudresh N N**
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/rudreshjadavnn-sketch
 
-Email: nnrudreshjavad@gmail.com
+Email: nnrudreshjadav@gmail.com
 
 ---
 
